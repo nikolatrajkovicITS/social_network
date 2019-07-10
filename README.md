@@ -14,3 +14,5 @@ Full stack social network app with React, Redux, Node, Express &amp; MongoDB
    "emmet.includeLanguages": {
    "javascript": "javascriptreact"
    }
+
+5. Spell Checker
